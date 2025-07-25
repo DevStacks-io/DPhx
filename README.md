@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="DPhx.png" width="200" alt="DPhx Logo">
+</p>
+
+<h1 align="center">DevStacks DPhx</h1>
+
 # DPhx 🔥
 
 **DPhx** is a rebranded version of [Elixir](https://github.com/elixir-lang/elixir), adapted and maintained by DevStacks for use within the DLangSDK environment.
